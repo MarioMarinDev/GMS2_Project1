@@ -7,4 +7,4 @@ scr_setup();
 scr_dev_variables();
 
 // Control instnace variables
-rm_last = room;
+rm_last = NULL;
